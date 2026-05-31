@@ -1,5 +1,6 @@
 package rh;
 
+import rh.enums.*;
 import rh.model.*;
 import rh.Repository.*;
 import rh.service.*;
