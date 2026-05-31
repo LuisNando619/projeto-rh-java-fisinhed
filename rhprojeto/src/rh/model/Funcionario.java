@@ -15,7 +15,7 @@ public class Funcionario implements Identificavel {
         this.nome = nome;
         this.cpf = cpf;
         this.cargo = cargo;
-        this.salarioBase = cargo.getDeclaringClass().getModifiers();
+        this.salarioBase = cargo.getSalarioBase();
     }
 
     @Override
