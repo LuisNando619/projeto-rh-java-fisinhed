@@ -1,5 +1,7 @@
 package rh.model;
 
+import rh.enums.*;
+
 public class Funcionario implements Identificavel {
 
     private int id;
