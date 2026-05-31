@@ -1,4 +1,4 @@
-package rh.model;
+package rh.enums;
 
 public enum Cargo {
 
