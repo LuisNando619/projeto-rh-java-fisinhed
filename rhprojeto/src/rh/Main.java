@@ -1,7 +1,7 @@
 package rh;
 
 import rh.model.*;
-import rh.repository.*;
+import rh.Repository.*;
 import rh.service.*;
 
 import java.time.LocalDate;
