@@ -1,4 +1,4 @@
-package rh.repository;
+package rh.Repository;
 
 import rh.model.Usuario;
 
