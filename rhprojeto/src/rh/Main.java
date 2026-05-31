@@ -39,7 +39,7 @@ public class Main {
         Cargo dev = Cargo.DESENVOLVEDOR;
 
         Funcionario funcionario =
-                new Funcionario(1, "João", "123", dev);
+                new Funcionario(1, "Karen", "123", dev);
 
         funcionario.adicionarFalta();
         funcionario.adicionarHorasExtras(10);
