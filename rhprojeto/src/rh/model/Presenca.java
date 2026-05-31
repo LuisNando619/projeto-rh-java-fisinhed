@@ -1,6 +1,6 @@
 package rh.model;
 
-import rh.model.StatusPresenca;
+import rh.enums.StatusPresenca;
 
 import java.time.LocalDate;
 
