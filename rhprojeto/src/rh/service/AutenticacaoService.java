@@ -1,7 +1,7 @@
 package rh.service;
 
 import rh.model.Usuario;
-import rh.repository.UsuarioRepository;
+import rh.Repository.UsuarioRepository;
 
 public class AutenticacaoService {
 
