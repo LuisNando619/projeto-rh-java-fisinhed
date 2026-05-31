@@ -1,6 +1,6 @@
 package rh.model;
 
-import rh.model.NivelAcesso;
+import rh.enums.NivelAcesso;
 
 public class Usuario implements Identificavel {
 
