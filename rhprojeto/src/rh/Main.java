@@ -1,7 +1,5 @@
 package rh;
 
-import rh.model.NivelAcesso;
-import rh.model.StatusPresenca;
 import rh.model.*;
 import rh.repository.*;
 import rh.service.*;
